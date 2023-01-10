@@ -6,4 +6,9 @@ public class LoginPagTest {
 		System.out.println("LoginPagTest  printMethod 1");
 	}
 
+	
+	public void printMethod1() {
+		System.out.println("LoginPagTest  printMethod 3");
+	}
+
 }

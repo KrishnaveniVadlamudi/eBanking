@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tests.LoginPagTest" time="0.44" tests="0" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tests.LoginPagTest" time="0.386" tests="0" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/siva/Desktop/Selenium/eBanking/target/surefire/surefirebooter17906615992257926315.jar /Users/siva/Desktop/Selenium/eBanking/target/surefire 2023-01-10T09-25-38_452-jvmRun1 surefire5815926919404370486tmp surefire_07179305283776135893tmp"/>
+    <property name="sun.java.command" value="/Users/siva/Desktop/Selenium/eBanking/target/surefire/surefirebooter14822179611608666391.jar /Users/siva/Desktop/Selenium/eBanking/target/surefire 2023-01-10T12-33-31_414-jvmRun1 surefire13262320823486609119tmp surefire_012033184823458963857tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/siva/Desktop/Selenium/eBanking/target/test-classes:/Users/siva/Desktop/Selenium/eBanking/target/classes:/Users/siva/.m2/repository/org/testng/testng/7.7.1/testng-7.7.1.jar:/Users/siva/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/siva/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/siva/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/siva/Desktop/Selenium/eBanking/target/surefire/surefirebooter17906615992257926315.jar"/>
+    <property name="surefire.real.class.path" value="/Users/siva/Desktop/Selenium/eBanking/target/surefire/surefirebooter14822179611608666391.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.2+8-LTS-86"/>
